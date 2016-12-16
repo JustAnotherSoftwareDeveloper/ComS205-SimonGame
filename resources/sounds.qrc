@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>g5w.wav</file>
+        <file>c6w.wav</file>
+        <file>g6w.wav</file>
+        <file>c5w.wav</file>
+        <file>fail_game.wav</file>
+        <file>g5</file>
+        <file>g6</file>
+        <file>c6</file>
+        <file>c5</file>
+        <file>fail_game</file>
+    </qresource>
+</RCC>

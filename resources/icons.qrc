@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>button_ur_c.png</file>
+        <file>buttons_hover.png</file>
+        <file>button_ur_h.png</file>
+        <file>buttons_press.png</file>
+        <file>button_ll_c.png</file>
+        <file>full_board.png</file>
+        <file>button_ll_h.png</file>
+        <file>button_lr_c.png</file>
+        <file>button_lr_h.png</file>
+        <file>button_ul_c.png</file>
+        <file>button_ul_h.png</file>
+        <file>button_gray_lr_h.png</file>
+        <file>button_gray_ll_h.png</file>
+        <file>button_gray_ur_h.png</file>
+        <file>button_gray_lr.png</file>
+        <file>button_gray_ul.png</file>
+        <file>button_gray_ll.png</file>
+        <file>button_gray_ur.png</file>
+        <file>buttons_gray_click.png</file>
+        <file>buttons_gray_hover.png</file>
+        <file>buttons_gray.png</file>
+        <file>button_gray_lr_c.png</file>
+        <file>button_gray_ul_c.png</file>
+        <file>button_gray_ll_c.png</file>
+        <file>button_gray_ur_c.png</file>
+        <file>button_gray_ul_h.png</file>
+    </qresource>
+</RCC>
